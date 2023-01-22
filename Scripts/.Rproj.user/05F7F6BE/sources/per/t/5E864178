@@ -1,0 +1,26 @@
+{
+    "id": "5E864178",
+    "path": "~/cloud_aws/Article_submission/CDD_PROCESS/Scripts/Base_temperature.R",
+    "project_path": "Base_temperature.R",
+    "type": "r_source",
+    "hash": "3076890278",
+    "contents": "",
+    "dirty": false,
+    "created": 1674409124889.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "246,0",
+        "scrollLine": "226"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1674409290,
+    "encoding": "ISO8859-1",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1674409290832,
+    "read_only": false,
+    "read_only_alternatives": []
+}
