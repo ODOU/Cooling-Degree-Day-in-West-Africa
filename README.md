@@ -1,6 +1,6 @@
 # Cooling-Degree-Day-in-West-Africa
 
-This repository contains the scripts and files to be able to reproduced the analysis performed in the article **Potential changes in cooling degree day under different global warming levels and shared socioeconomic pathways in West Africa**. 
+This repository contains the scripts and files to be able to reproduce the analysis performed in the article **Potential changes in cooling degree day under different global warming levels and shared socioeconomic pathways in West Africa**. 
 
 # CDD and CDDP computation scripts
 
@@ -21,8 +21,5 @@ This folder contains the QGIS project created to generate study area map as well
 
 # Post-process files
 
-All the post-process netcdf files are csv files are provided in cdd_ouput/cdd folder.
-
-.
-	
+All the post-process netcdf files in csv are provided in cdd_ouput/cdd folder.	
 	
