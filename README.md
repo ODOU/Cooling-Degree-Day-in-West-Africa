@@ -21,5 +21,5 @@ This folder contains the QGIS project created to generate study area map as well
 
 # Post-process files
 
-Bias-corrected climate projection datasets used are available at https://registry.opendata.aws/nasanex/ and subset over the study area can be assessed at 10.5281/zenodo.7562110. Output generated as a result of the analysis in csv format are provided in cdd_ouput/cdd folder.	T
+Bias-corrected climate projection datasets used are available at https://registry.opendata.aws/nasanex/ and subset over the study area can be assessed at https://doi.org/10.5281/zenodo.7562110. Output generated as a result of the analysis in csv format are provided in cdd_ouput/cdd folder.
 	
